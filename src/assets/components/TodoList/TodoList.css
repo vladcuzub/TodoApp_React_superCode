@@ -1,0 +1,14 @@
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid black;
+  width: 500px;
+  margin: 3rem auto;
+  border-radius: 10px;
+  background-color: rgba(165, 210, 231, 0.532);
+}
+ul {
+  width: 400px;
+}
